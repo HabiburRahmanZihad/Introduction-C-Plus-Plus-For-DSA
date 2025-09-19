@@ -1,2 +1,1 @@
-You entered number: 122
-You entered string: hello World
+Hello, World!
