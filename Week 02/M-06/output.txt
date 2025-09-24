@@ -1,0 +1,4 @@
+Hello, sakib
+sakib getTotal Mark: 175
+Hello, rakib
+rakib getTotal Mark: 0
